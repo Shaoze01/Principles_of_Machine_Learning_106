@@ -57,7 +57,7 @@ So many more; though
 
 ### Qualitative Assessment
 
- The output demonstrates that the Transformer has learned meaningful patterns from the training data, including dialogue structure, character naming conventions, and Early Modern English vocabulary.
+- **Overall**: The output demonstrates that the Transformer has learned meaningful patterns from the training data, including dialogue structure, character naming conventions, and Early Modern English vocabulary.
 
 ## Reflection
 
